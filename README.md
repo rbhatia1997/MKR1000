@@ -1,6 +1,6 @@
 # MKR1000
 
-This repository stores completed code for a prototype IoT demo. More information on my LinkedIn, which is linked in my post.
+This repository stores completed code for a prototype IoT demo. More information available on my LinkedIn.
 
 Internet of Things (IoT) is the process of connecting the physical world to the Internet. From thermostats to teddy bears to speakers to rotis, IoT devices have been at the forefront of the digital age, impacting every facet of life. By 2020, there will be 20.4 billion smart devices connected to the IoT; in addition, there is about an $11 trillion potential yearly impact for IoT technology by 2025 [1]. By leveraging IoT in industry, governments can monitor water consumption for residential and commercial use, oil and gas companies can optimize on-field production through sensors on their wells, and truck manufacturers can fit trucks with sensors to predict maintenance and order parts if necessary [2], just to give a few examples. 
 
